@@ -1,9 +1,0 @@
-Package: PLUTO
-Title: PLUTO - Nykredit Asset Management
-Version: 0.0.0.9000
-Authors@R: person("Rasmus", "Dall-Hansen", email = "rdh@nykredit.dk", role = c("aut", "cre"))
-Description: This package is developed for Fixed Income.
-Depends: R (>= 0.0.0)
-License: Nykredit Asset Management
-LazyData: true
-RoxygenNote: 5.0.1
